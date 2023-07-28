@@ -1,0 +1,48 @@
+{
+  "news": [{
+    "id": 1,
+    "author": "gengjiwei",
+    "content": "gengjiwei-111"
+  },
+  {
+    "id": 2,
+    "author": "gengjiwei",
+    "content": "gengjiwei-222"
+  },
+  {
+    "id": 3,
+    "author": "gengjiwei",
+    "content": "gengjiwei-333"
+  },
+  {
+    "id": 4,
+    "author": "pika",
+    "content": "pika-111"
+  },
+  {
+    "id": 5,
+    "author": "pika",
+    "content": "pika-222"
+  },
+  {
+    "id": 6,
+    "author": "pika",
+    "content": "pika-333"
+  },
+  {
+    "id": 7,
+    "author": "bubu",
+    "content": "bubu-111"
+  },
+  {
+    "id": 8,
+    "author": "bubu",
+    "content": "bubu-222"
+  },
+  {
+    "id": 9,
+    "author": "bubu",
+    "content": "bubu-333"
+  }
+]
+}
